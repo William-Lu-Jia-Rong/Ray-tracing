@@ -31,4 +31,6 @@ For the triangle part, I also used the combine equation provided during the cour
     gamma=(d1*(a0-v10)-d0*(a1-v11)-(d1*(v10-v20)-d0*(v11-v21))*beta)/(d1*(v30-v10)-d0*(v31-v11))
     
 
-These arr all my main process.
+These are all my main process.
+
+

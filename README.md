@@ -1,6 +1,6 @@
 # Bill's Assignment2-part1
 
-![](/http://www.wyhsis.com/wp-content/uploads/2022/08/gears-1024x891.png "gears.ppm")
+![graph here](/main/gears.jpg "gears")
 
 This is a graph of the output from my code, I set up a founction for detecting whether the light hit the object or not. For the Sphere test, I used the equation provided during the course to do the calculation, |R(t)-C|^2-r^2=0 and |A+tD-C|^2-r^2=0. The rough process of the code is:
     double a=D*D;

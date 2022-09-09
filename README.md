@@ -1,6 +1,6 @@
 # Bill's Assignment2-part1
 
-![graph here](/main/gears.jpg "gears")
+![graph here](/Ray-tracing/gears.png "gears")
 
 This is a graph of the output from my code, I set up a founction for detecting whether the light hit the object or not. For the Sphere test, I used the equation provided during the course to do the calculation, |R(t)-C|^2-r^2=0 and |A+tD-C|^2-r^2=0. The rough process of the code is:
     double a=D*D;
